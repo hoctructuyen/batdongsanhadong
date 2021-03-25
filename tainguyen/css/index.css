@@ -336,7 +336,7 @@
  }
  .par1 ul>li{
  	text-transform: 	none;
- 	line-height: 25px;
+ 	line-height: 15px;
  	padding-left: 0px;
  }
  .par1 p  {
@@ -1173,7 +1173,7 @@ background-color: transparent;
   			opacity: 0;	
   	}  		
   	#menu2p2:hover .dropdown-menu {
-  			height: 270px;
+  			height: 300px;
   			opacity: 1;
         border: 1px solid #79c753;
   	}
@@ -1184,10 +1184,10 @@ background-color: transparent;
   			transition: all 0.3s ease-out;
   			display: block;	
   			overflow: hidden;
-  			padding: 0px;
+  			padding: 00px;
   			margin: 0px;
   			position: absolute;
-  			/*left: -500px;*/
+  			
   			top:  48px;
   			border-color: #79c753;
 
@@ -1197,7 +1197,7 @@ background-color: transparent;
         font-weight: bold;
     } 		
   	#menu2p3:hover .dropdown-menu {
-  			height: 240px;
+  			height: 80px;
   			opacity: 1;
         border: 1px solid #79c753;
   	}
