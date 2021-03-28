@@ -1068,6 +1068,20 @@ background-color: transparent;
   animation-duration: 1s;
   animation-iteration-count: infinite;
 }
+.chudong1 {
+   text-transform: uppercase;
+  font-size: 25px;
+  line-height: 40px;
+  color: green;
+  font-weight: bold;
+  height: 40px;
+  animation-name: shake;  
+  animation-duration: 1s;
+  animation-iteration-count: infinite;
+}
+.chudong1 a{
+   color: red;
+}
 
 
 @keyframes dichuyen{
