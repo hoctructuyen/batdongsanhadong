@@ -129,10 +129,10 @@
    border: 1px solid #79c753;
 }
 #vitrilen{
-   margin: 35px 35px 15px 35px;
+   margin: 0px 35px 15px 35px;
 }
 .sanphaminfojava{
-  padding-top: 30px;
+  padding-top: 00px;
 }
 #main1 img{
    width: 100%;
@@ -1080,7 +1080,7 @@ background-color: transparent;
   animation-iteration-count: infinite;
 }
 .chudong1 a{
-   color: red;
+   color: #f4721e ;
 }
 
 
